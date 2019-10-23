@@ -1,0 +1,6 @@
+3a0c0bacadb3e4aab10d6fec739723ef1532f5bc  free/SIGIL_V1_1.zip
+4ef0ddc4e751ae721158a027999a0cacc0af65dd  free/sigil_v1_2.zip
+2eadbf82dc03e4aab9403ef7137a2c1007547328  free/SIGIL_v1_21.zip
+1d649c6953b4c989413b624615e3df09b22a4f52  paid/SIGIL_REGISTERED_V1_1.zip
+4a23107b847fccd5187cfde447b380ee36fd68ed  paid/SIGIL_REGISTERED_v1_2.zip
+1558299d6fe9298ca0456211b204bf656918aad9  paid/sigil-registered-version.zip

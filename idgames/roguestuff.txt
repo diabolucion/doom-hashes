@@ -1,0 +1,14 @@
+50364f4195058168e4da5749e30f2129cbf57c48  roguestuff/12cd_v13.exe
+a56276335db901daa260a42829c6ac03a15e488b  roguestuff/12cd_v13.txt
+a464472ef244c8e840629599e34adf213092942a  roguestuff/strife10.txt
+4721b124720d6e5f374870e0a73d88132c50fac6  roguestuff/strife10.zip
+ce20d5891ada1077e418b198d39a42836724fc92  roguestuff/strife11.txt
+d94f99e0a146137ac44b4c146d789f3ffa238e68  roguestuff/strife11.zip
+5530efef0c7b859d8f26d4972d7b06b78ec8c9cc  roguestuff/v12_dos.exe
+253aa893f9de272d536019752146bc20e03ee051  roguestuff/v12_dos.txt
+7189e19f516a2127c9b9ab53992f00127598b3dc  roguestuff/v12_v13.exe
+f17abc6431adf2bcf0dda1d03abd4791ca3294d1  roguestuff/v12_v13.txt
+e8f6596429867065ab475fe1872be6d871974bd7  roguestuff/v12_win.exe
+9724d9c4dac1e6b298a7ff1f4cb418771f229cb6  roguestuff/v12_win.txt
+cb7673b350774d105989ee3d343a5ecfcaf40a55  roguestuff/v13_v131.exe
+4c80af1183c3cca57be0ef41f0e8a002f66c9296  roguestuff/v13_v131.txt
